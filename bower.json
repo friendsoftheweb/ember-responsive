@@ -1,6 +1,6 @@
 {
   "name": "ember-responsive",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "main": "dist/ember-responsive.js",
   "authors": [
     "Jonathan Geiger <geiger@freshbooks.com>",
@@ -24,7 +24,7 @@
     "**/*.json"
   ],
   "dependencies": {
-    "ember": ">=1.5.0 <=1.10.0"
+    "ember": "~1.11.0"
   },
   "devDependencies": {
     "qunit": "~1.14.0",
